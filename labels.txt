@@ -1,0 +1,7 @@
+0 nothing
+1 ok
+2 espalda
+3 exceso
+4 low
+5 high
+6 piernas
